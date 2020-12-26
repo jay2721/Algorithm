@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 
 //¹úÁý
 
 import java.util.*;
 
+=======
+
+import java.util.*;
+
+>>>>>>> 08924c66534382d8bf77138c3a5bce2555b3c30e
 public class No_2292 {
 	public static void main(String[] args){
         int input=0;
@@ -23,4 +29,7 @@ public class No_2292 {
         System.out.println(count);
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 08924c66534382d8bf77138c3a5bce2555b3c30e
