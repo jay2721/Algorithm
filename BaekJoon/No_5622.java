@@ -6,7 +6,7 @@ public class No_5622 {
 		int sum=0;
 		Scanner sc = new Scanner(System.in);
 	    String input = sc.next();
-	    String [] arr;
+	    String [] arr=new String[16];
 	    
 	    arr=input.split("");
 	   
