@@ -8,7 +8,7 @@ public class No_1316 {
 		
 		int N=sc.nextInt();
 
-		int count=0;
+		int count=N;
 		
 		for(int i=0;i<N;i++) {
 
@@ -24,7 +24,7 @@ public class No_1316 {
 				}
 				check[str.charAt(j)-'a']=true;
 			}
-			count++;
+		
 		}
 		System.out.println(count);
 	}
