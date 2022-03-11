@@ -34,6 +34,5 @@ public class No_1181 {
 				System.out.println(arr[i]);
 			}
 		}
-		
 	}
 }
