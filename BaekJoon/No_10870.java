@@ -18,5 +18,4 @@ public class No_10870 {
 		
 		return fibo(n-1)+fibo(n-2);
 	}
-
 }
