@@ -23,7 +23,6 @@ class Solution {
         for(int i=0;i<count.length;i++){
             if(high<count[i])
                 high=count[i];
-           
         }
        
         
