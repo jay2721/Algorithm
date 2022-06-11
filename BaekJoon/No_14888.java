@@ -56,7 +56,6 @@ public class No_14888 {
  
 				}
 		
-				
 				B[i]++;
 			}
 		}
